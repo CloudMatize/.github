@@ -8,4 +8,5 @@ ___________
 - [IDP Demo](https://idp-front-cm-cloudmatize-demo-gu6656r72a-uc.a.run.app) 
 - [Painel One](https://painel-one-bertioga-gu6656r72a-uc.a.run.app) 
 - [One Chrome Extension](https://workspace-extension-demo-gu6656r72a-uc.a.run.app) 
-- [Hub 360](https://workspace-hub360-demo-gu6656r72a-uc.a.run.app) 
+- [Hub 360](https://workspace-hub360-demo-gu6656r72a-uc.a.run.app)
+- [Flipt Dev](https://flipt-hiqfn4bwcq-uc.a.run.app)
